@@ -29,5 +29,7 @@ STEP 11: Check the routing table in Delhi router and Chennai router using show i
 # OUTPUT
 <img width="4096" height="3072" alt="IMG_20260604_181707 jpg" src="https://github.com/user-attachments/assets/56a1ecc5-7fce-403c-9e91-587685110b06" />
 
+<img width="4096" height="3072" alt="IMG_20260604_184912 jpg" src="https://github.com/user-attachments/assets/a74ab1ab-0062-4a48-b364-53d4bc29e490" />
+
 # RESULT
 Thus the computers in multiple networks using Open Shortest Path First Routing Protocol is connected and the connectivity between the computers is verified.
